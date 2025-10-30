@@ -1,1 +1,1 @@
-# Queue-using-Two-Stacks-DATA-STRUCTURE-MEDIUM
+# Queue-using-Two-Stacks-DATA-STRUCTURE-MEDIUM.This program implements a queue using two stacks — stackNewest stores newly added elements, and stackOldest provides access to the front element by reversing order when needed, ensuring FIFO behavior for enqueue, dequeue, and peek operations.
